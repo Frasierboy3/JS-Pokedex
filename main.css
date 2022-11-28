@@ -1,0 +1,40 @@
+body {
+    background-color: red;
+}
+.pokedex-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#pokedex-form {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-control {
+    text-align: center;
+    width: 500px !important;
+}
+
+.pokeCard {
+    display:flex;
+    justify-content: center;
+    
+}
+.pkmcard {
+    display: flex;
+    justify-content: center;
+    color: gold;
+}
+.pokedex {
+    display: flex;
+    justify-content: center;
+    color: gold;
+}
+h2 {
+    color: gold;
+}
